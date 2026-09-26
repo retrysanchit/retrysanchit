@@ -1,6 +1,6 @@
-<!-- <div align="center">
+ <div align="center">
   <img src="banner_github.png" alt="GitHub Banner" width="100%" />
-</div> -->
+</div> 
 
 <div align="center">
 
@@ -15,16 +15,11 @@
 
 ```js
 const Profile = {
-  fullName: "Sanchit Bishwakarma",
-  role: "Full Stack Developer",
-  location: "Nepal 🇳🇵",
-  experience: "Web Developer since 2023",
-  currentFocus: "building an industry level product",
-  currentlyWorkingOn: "connecting college and business platform",
-  learning: ["DevOps", "Advance. React", "Advance. Nodejs", "AWS"],
-  lookingFor: "Coding Partner",
-  seekingHelp: "Listen what I do",
-  canHelpYou: "Listen what you have done",
+  DisplayName: "Sanchit Bishwakarma",
+  Role: "Full Stack Developer",
+  Experience: "Web Developer since 2023",
+  Focus: "building an industry level product",
+  WorkingOn: "connecting college and business platform",
   contact: "sanchitbishwakarma91@gmail.com",
 };
 ```

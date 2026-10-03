@@ -4,14 +4,14 @@
   <br>
 
   <br>
-  <a href="https://github.com/sanchitbishwakarma?tab=followers">
-    <img src="https://img.shields.io/github/followers/sanchitbishwakarma?color=58A6FF&logo=GitHub&style=flat&logoColor=white" />
+  <a href="https://github.com/retrysanchit?tab=followers">
+    <img src="https://img.shields.io/github/followers/retrysanchit?color=58A6FF&logo=GitHub&style=flat&logoColor=white" />
   </a>
   <a href="https://github.com/JobLessGod">
     <img src="https://komarev.com/ghpvc/?username=JobLessGod&label=Profile%20views&color=58A6FF&style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/sanchitbishwakarma">
-    <img src="https://img.shields.io/github/stars/sanchitbishwakarma?color=58A6FF&logo=github&style=flat" />
+  <a href="https://github.com/retrysanchit">
+    <img src="https://img.shields.io/github/stars/retrysanchit?color=58A6FF&logo=github&style=flat" />
   </a>
   <a href="https://wakatime.com/@joblessgod">
     <img src="https://img.shields.io/endpoint?url=https://wakatime-badge-gamma.vercel.app/api/wakatime-badge&style=flat&logo=wakatime&logoColor=white" />
@@ -46,7 +46,7 @@ const sanchit = {
 
 ## Contributions:
     
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanchitbishwakarma&theme=github_dark&hide_border=true&border_radius=5.1&date_format=j%20M%5B%20Y%5D&card_width=810&card_height=208&fire=EB5454&currStreakNum=EBA203&background=45%2C1B3325A6%2C1D222CD4)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=retrysanchit&theme=github_dark&hide_border=true&border_radius=5.1&date_format=j%20M%5B%20Y%5D&card_width=810&card_height=208&fire=EB5454&currStreakNum=EBA203&background=45%2C1B3325A6%2C1D222CD4)
 
 <!-- Stats
 

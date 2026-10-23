@@ -7,7 +7,7 @@
   <a href="https://github.com/retrysanchit?tab=followers">
     <img src="https://img.shields.io/github/followers/retrysanchit?color=58A6FF&logo=GitHub&style=flat&logoColor=white" />
   </a>
-  <a href="https://github.com/JobLessGod">
+  <a href="#">
     <img src="https://komarev.com/ghpvc/?username=JobLessGod&label=Profile%20views&color=58A6FF&style=flat&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/retrysanchit">
@@ -26,8 +26,7 @@ Hey! I'm **Sanchit Bishwakarma**, a **Full Stack Developer** building web applic
 ```js
 const sanchit = {
   role: "Full Stack Developer",
-  since: 2023,
-  currentlyBuilding: "College × Business Platform",
+  current: "Student Academic Tools of Hub and Interface",
   focus: "Industry-level products",
   email: "sanchitbishwakarma91@gmail.com",
 };
